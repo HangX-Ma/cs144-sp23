@@ -1,5 +1,5 @@
 # CS 144: Introduction to Computer Networking, Spring 2023
-You will write TCP/IP protocol from scratch, but spring 2021 version may be more complete.
+You will write TCP/IP protocol from scratch, but spring 2021 version may be more complete. I write some blogs about how I overcome the problems. You can find them from my [GitPage](https://hangx-ma.github.io/).
 > :star2: This course has been fully uploaded and all assignments have been finished.
  
 - [x] Checkpoint 0: networking warmup
